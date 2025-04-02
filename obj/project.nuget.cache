@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PURQEIG+VuwTvKSc/25CnYuw5mFZ9bYB+QODQTmqe/8cWbD8TMP2LHUIG3QYty3FPx6NSJ0V6ZadA+CDmh+BQg==",
+  "success": true,
+  "projectFilePath": "/home/kali-necroweb/Документы/csharpwork/learn/learn.csproj",
+  "expectedPackageFiles": [
+    "/home/kali-necroweb/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali-necroweb/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali-necroweb/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/kali-necroweb/Документы/csharpwork/learn/bin/Debug/net6.0/learn
+/home/kali-necroweb/Документы/csharpwork/learn/bin/Debug/net6.0/learn.deps.json
+/home/kali-necroweb/Документы/csharpwork/learn/bin/Debug/net6.0/learn.runtimeconfig.json
+/home/kali-necroweb/Документы/csharpwork/learn/bin/Debug/net6.0/learn.dll
+/home/kali-necroweb/Документы/csharpwork/learn/bin/Debug/net6.0/learn.pdb
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/learn.csproj.AssemblyReference.cache
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/learn.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/learn.AssemblyInfoInputs.cache
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/learn.AssemblyInfo.cs
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/learn.csproj.CoreCompileInputs.cache
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/learn.dll
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/refint/learn.dll
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/learn.pdb
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/learn.genruntimeconfig.cache
+/home/kali-necroweb/Документы/csharpwork/learn/obj/Debug/net6.0/ref/learn.dll
